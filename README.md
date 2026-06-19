@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**4alls/4alls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain Engineer focused on Solidity, DeFi and Tokenization.
 
-Here are some ideas to get you started:
+🎓 Fintech Engineer - ESILV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Certified Blockchain Developer - Alyra
+
+🔨 Building decentralized protocol infrastructure at Mostro in collaboration with MetaDev3
+
+---
+
+## About Me
+
+I am a Blockchain Developer with experience in:
+
+- Ethereum & Solana Development
+- DeFi Protocols
+- Tokenization & RWA
+- Smart Contract Security
+
+---
+
+## Experience
+
+### Mostro
+- Smart Contract Development
+- Vaults Architecture
+- Bonding Curve Development
+- Governance Contracts
+- Multi-Sig Systems
+
+### Napoleon Capital
+- Smart Contract Development
+- Crypto Asset Management
+- Ethereum Ecosystem
+
+### Riverbank
+- Fintech & Credit Risk
+
+---
+
+## Contact
+
+LinkedIn:
+www.linkedin.com/in/thibaut-baudry
+
+X:
+@BaudryThibaut
+
