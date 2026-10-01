@@ -62,6 +62,24 @@ Implemented concepts include:
 
 The project is also used to explore **compute constraints, account architecture and protocol design trade-offs on Solana**.
 
+### Coup2Pousse
+
+DeFi protocol designed to connect **staking mechanisms with the financing of impact-oriented projects**.
+
+The protocol explores the use of **ERC-4626 vaults and on-chain yield mechanisms** to build programmable financial infrastructure around project funding.
+
+Implemented concepts include:
+
+- ERC-4626 tokenized vaults
+- Vault factory architecture
+- ERC-20 staking
+- Chainlink price feeds
+- Programmable reward distribution
+- Smart contract testing and gas reporting
+- Sepolia deployment
+
+The project combines **DeFi primitives, oracle infrastructure and smart contract architecture** within a real-world financing use case.
+
 ## Other projects
 
 | Project | Description | Stack |
@@ -76,7 +94,7 @@ The project is also used to explore **compute constraints, account architecture 
 **Alyra — Certified Blockchain Developer**
 
 Experience across **Web3 startups, fintech, banking and venture capital**.
- 
+
 Open to work.
 
 
