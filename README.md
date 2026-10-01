@@ -88,13 +88,13 @@ The project combines **DeFi primitives, oracle infrastructure and smart contract
 
 Recommendation following my work on **Solana, EVM smart contracts, ERC-2535 and DeFi vaults at Mostro**.
 
-![LinkedIn recommendation from Kim Bingham](./assets/mostro-recommendation.png)
+![LinkedIn recommendation from Kim Bingham](./recommandations/Recommandation_Mostro.png)
 
 ### Arnaud Dartois — CEO @ Napoleon Capital
 
 Recommendation following my experience at **Napoleon Capital**.
 
-![LinkedIn recommendation from Arnaud Dartois](./assets/napoleon-recommendation.png)
+![LinkedIn recommendation from Arnaud Dartois](./recommandations/Recommandation_Napoleon_Capital.png)
 
 ## Other projects
 
