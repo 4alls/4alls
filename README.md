@@ -69,7 +69,7 @@ The project is also used to explore **compute constraints, account architecture 
 |---|---|---|
 | [ZK Credit Score](https://github.com/4alls/ZK-Credit-Score) | ZK credit system with Groth16 proofs, Solidity verification and replay protection. | Circom, Solidity |
 | [Coup2Pousse](https://github.com/4alls/Coup2Pousse) | Impact-oriented DeFi staking application using vaults and oracle infrastructure. | Solidity, Chainlink |
-| PoW Blockchain | Experimental blockchain implementation exploring consensus and core blockchain mechanics. | — |
+| PoW Blockchain | Experimental blockchain implementation exploring consensus and core blockchain mechanics. | Python |
 
 ## Background
 
@@ -78,12 +78,7 @@ The project is also used to explore **compute constraints, account architecture 
 **Alyra — Certified Blockchain Developer**
 
 Experience across **Web3 startups, fintech, banking and venture capital**.
-
-## Interests
-
-Solana · Rust · DeFi · Protocol Engineering · On-chain Markets · Trading Infrastructure · Smart Contract Security
-
-📍 Paris, France  
-Open to **Blockchain Engineering, Solana/Rust, Smart Contract and DeFi Protocol Engineering opportunities**.
+ 
+Open to work.
 
 
