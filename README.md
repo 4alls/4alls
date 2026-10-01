@@ -1,6 +1,8 @@
 # Thibaut Baudry
 
-Blockchain Engineer & FinTech graduate from **ESILV** — building **Solana programs, DeFi protocols and on-chain financial applications**.
+[LinkedIn](https://www.linkedin.com/in/thibaut-baudry/)
+
+Blockchain Engineer & FinTech graduate from **[ESILV](https://www.esilv.fr/)** — building **Solana programs, DeFi protocols and on-chain financial applications**.
 
 Specialized in **Solana / Rust**, with experience across EVM smart contracts and DeFi infrastructure.
 
@@ -80,6 +82,22 @@ Implemented concepts include:
 
 The project combines **DeFi primitives, oracle infrastructure and smart contract architecture** within a real-world financing use case.
 
+## Recommendations
+
+### Kim Bingham — Founder & CEO @ Mostro
+
+Recommendation following my work on **Solana, EVM smart contracts, ERC-2535 and DeFi vaults at Mostro**.
+
+![LinkedIn recommendation from Kim Bingham](./assets/mostro-recommendation.png)
+
+### Arnaud Dartois — CEO @ Napoleon Capital
+
+Recommendation following my experience at **Napoleon Capital**.
+
+![LinkedIn recommendation from Arnaud Dartois](./assets/napoleon-recommendation.png)
+
+[View my LinkedIn profile](https://www.linkedin.com/in/thibaut-baudry/)
+
 ## Other projects
 
 | Project | Description | Stack |
@@ -89,7 +107,7 @@ The project combines **DeFi primitives, oracle infrastructure and smart contract
 
 ## Background
 
-**ESILV — Engineering Degree, FinTech**
+**[ESILV](https://www.esilv.fr/) — Engineering Degree, FinTech**
 
 **Alyra — Certified Blockchain Developer**
 
