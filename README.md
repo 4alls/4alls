@@ -1,6 +1,6 @@
 # Thibaut Baudry
 
-[LinkedIn](https://www.linkedin.com/in/thibaut-baudry/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thibaut%20Baudry-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thibaut-baudry/)
 
 Blockchain Engineer & FinTech graduate from **[ESILV](https://www.esilv.fr/)** — building **Solana programs, DeFi protocols and on-chain financial applications**.
 
@@ -95,8 +95,6 @@ Recommendation following my work on **Solana, EVM smart contracts, ERC-2535 and 
 Recommendation following my experience at **Napoleon Capital**.
 
 ![LinkedIn recommendation from Arnaud Dartois](./assets/napoleon-recommendation.png)
-
-[View my LinkedIn profile](https://www.linkedin.com/in/thibaut-baudry/)
 
 ## Other projects
 
