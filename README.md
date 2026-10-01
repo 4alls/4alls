@@ -35,7 +35,6 @@ Main areas of interest:
 | [Solana CLOB](https://github.com/4alls/Solana-mini-Orderbook) | On-chain Central Limit Order Book exploring price-time priority, escrow, order matching and Solana compute/account constraints. | Rust, Anchor |
 | [Mostro — EVM](https://github.com/mostrotech1-hash/mostro-evm) | Smart-contract infrastructure using modular architecture and DeFi mechanisms. | Solidity, Foundry, EIP-2535 |
 | [Coup2Pousse](https://github.com/4alls/Coup2Pousse) | DeFi staking protocol built around ERC-4626 vaults, Chainlink pricing and programmable rewards. | Solidity, ERC-4626, Chainlink |
-| [ZK Credit Score](https://github.com/4alls/ZK-Credit-Score) | Privacy-preserving credit-score experiment using zero-knowledge proofs and on-chain verification. | Circom, Groth16, Solidity |
 
 ## Selected work
 
@@ -68,7 +67,6 @@ The project is also used to explore **compute constraints, account architecture 
 | Project | Description | Stack |
 |---|---|---|
 | [ZK Credit Score](https://github.com/4alls/ZK-Credit-Score) | ZK credit system with Groth16 proofs, Solidity verification and replay protection. | Circom, Solidity |
-| [Coup2Pousse](https://github.com/4alls/Coup2Pousse) | Impact-oriented DeFi staking application using vaults and oracle infrastructure. | Solidity, Chainlink |
 | PoW Blockchain | Experimental blockchain implementation exploring consensus and core blockchain mechanics. | Python |
 
 ## Background
