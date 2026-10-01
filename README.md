@@ -32,8 +32,8 @@ Main areas of interest:
 | Project | Description | Stack |
 |---|---|---|
 | [Mostro — Solana](https://github.com/4alls/Mostro_MVP_Program) | Solana protocol combining Token-2022, bonding curves and decentralized governance. | Rust, Anchor, Solana |
-| [Solana CLOB](https://github.com/4alls/Solana-mini-Orderbook) | On-chain Central Limit Order Book exploring price-time priority, escrow, order matching and Solana compute/account constraints. | Rust, Anchor |
 | [Mostro — EVM](https://github.com/mostrotech1-hash/mostro-evm) | Smart-contract infrastructure using modular architecture and DeFi mechanisms. | Solidity, Foundry, EIP-2535 |
+| [Solana CLOB](https://github.com/4alls/Solana-mini-Orderbook) | On-chain Central Limit Order Book exploring price-time priority, escrow, order matching and Solana compute/account constraints. | Rust, Anchor |
 | [Coup2Pousse](https://github.com/4alls/Coup2Pousse) | DeFi staking protocol built around ERC-4626 vaults, Chainlink pricing and programmable rewards. | Solidity, ERC-4626, Chainlink |
 
 ## Selected work
@@ -85,7 +85,7 @@ The project combines **DeFi primitives, oracle infrastructure and smart contract
 | Project | Description | Stack |
 |---|---|---|
 | [ZK Credit Score](https://github.com/4alls/ZK-Credit-Score) | ZK credit system with Groth16 proofs, Solidity verification and replay protection. | Circom, Solidity |
-| PoW Blockchain | Experimental blockchain implementation exploring consensus and core blockchain mechanics. | Python |
+| [PoW Blockchain](https://github.com/4alls/POW-Blockchain) | Experimental blockchain implementation exploring consensus and core blockchain mechanics. | Python |
 
 ## Background
 
