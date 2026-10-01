@@ -1,5 +1,89 @@
-## Hi 👋
+# Thibaut Baudry
 
-Currently building the decentralized protocol infrastructure for Mostro in collaboration with MetaDev3.
+Blockchain Engineer & FinTech graduate from **ESILV** — building **Solana programs, DeFi protocols and on-chain financial applications**.
+
+Specialized in **Solana / Rust**, with experience across EVM smart contracts and DeFi infrastructure.
+
+## Tech
+
+**Solana:** Rust · Anchor · Token-2022 · SPL · PDAs · CPIs  
+**EVM:** Solidity · Foundry · Hardhat · OpenZeppelin · ERC-4626 · Chainlink  
+**ZK:** Circom · Groth16 · snarkjs  
+**Backend:** Java · Spring Boot · TypeScript · Kafka · MySQL
+
+## Current focus
+
+### Solana Protocol Engineering
+
+Currently deepening my work on **Solana protocol architecture and on-chain financial infrastructure**.
+
+Main areas of interest:
+
+- Solana account architecture & PDAs
+- Anchor and native Solana concepts
+- Token-2022
+- On-chain markets and order books
+- Compute optimization
+- DeFi protocol design
+- Smart contract security
+
+## Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Mostro — Solana](https://github.com/4alls/Mostro_MVP_Program) | Solana protocol combining Token-2022, bonding curves and decentralized governance. | Rust, Anchor, Solana |
+| [Solana CLOB](https://github.com/4alls/Solana-mini-Orderbook) | On-chain Central Limit Order Book exploring price-time priority, escrow, order matching and Solana compute/account constraints. | Rust, Anchor |
+| [Mostro — EVM](https://github.com/mostrotech1-hash/mostro-evm) | Smart-contract infrastructure using modular architecture and DeFi mechanisms. | Solidity, Foundry, EIP-2535 |
+| [Coup2Pousse](https://github.com/4alls/Coup2Pousse) | DeFi staking protocol built around ERC-4626 vaults, Chainlink pricing and programmable rewards. | Solidity, ERC-4626, Chainlink |
+| [ZK Credit Score](https://github.com/4alls/ZK-Credit-Score) | Privacy-preserving credit-score experiment using zero-knowledge proofs and on-chain verification. | Circom, Groth16, Solidity |
+
+## Selected work
+
+### Mostro
+
+Blockchain protocol development across **Solana and EVM**.
+
+On Solana, I have worked with **Rust, Anchor, Token-2022, PDAs, bonding curves and governance mechanisms**.
+
+On EVM, my work includes **Solidity, Foundry, modular smart-contract architecture, vaults and governance mechanisms**.
+
+### Solana CLOB
+
+Experimental **Central Limit Order Book implemented on Solana** to explore how traditional financial market infrastructure can be adapted to Solana's execution model.
+
+Implemented concepts include:
+
+- Limit orders
+- Price-time priority
+- FIFO matching
+- Escrow
+- PDA-based state
+- Order cancellation & refunds
+- Anchor integration tests
+
+The project is also used to explore **compute constraints, account architecture and protocol design trade-offs on Solana**.
+
+## Other projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [ZK Credit Score](https://github.com/4alls/ZK-Credit-Score) | ZK credit system with Groth16 proofs, Solidity verification and replay protection. | Circom, Solidity |
+| [Coup2Pousse](https://github.com/4alls/Coup2Pousse) | Impact-oriented DeFi staking application using vaults and oracle infrastructure. | Solidity, Chainlink |
+| PoW Blockchain | Experimental blockchain implementation exploring consensus and core blockchain mechanics. | — |
+
+## Background
+
+**ESILV — Engineering Degree, FinTech**
+
+**Alyra — Certified Blockchain Developer**
+
+Experience across **Web3 startups, fintech, banking and venture capital**.
+
+## Interests
+
+Solana · Rust · DeFi · Protocol Engineering · On-chain Markets · Trading Infrastructure · Smart Contract Security
+
+📍 Paris, France  
+Open to **Blockchain Engineering, Solana/Rust, Smart Contract and DeFi Protocol Engineering opportunities**.
 
 
